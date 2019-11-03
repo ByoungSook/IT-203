@@ -9,6 +9,7 @@
                            total += cnt;
             %>
             1부터 100까지의 합 = <%= total %> <BR>
+            Total test
             <%
                     for (int cnt = 101; cnt <= 200; cnt++)
                            total += cnt;
